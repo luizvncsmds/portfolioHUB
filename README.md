@@ -62,9 +62,14 @@ de Sistemas.
 
 Projetos Acadêmicos
 
-Projeto 1 – Exercícios de lógica de programação  
-Projeto 2 – Estudos em C#  
-Projeto 3 – Portfólio no GitHub  
+logica-de-programacao  
+https://github.com/luizvncsmds/logica-de-programacao
+
+estudos-csharp  
+https://github.com/luizvncsmds/estudos-csharp
+
+projetos-ads  
+https://github.com/luizvncsmds/projetos-ads  
 
 ---
 
@@ -85,9 +90,6 @@ Em desenvolvimento durante o curso.
 ---
 
 Informações adicionais
-
-Portfólio desenvolvido como atividade acadêmica utilizando GitHub para apresentação
-profissional digital.
 
 Portfólio desenvolvido como atividade acadêmica utilizando GitHub para apresentação
 profissional digital.
