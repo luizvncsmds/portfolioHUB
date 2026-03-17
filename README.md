@@ -1,32 +1,93 @@
- Portfólio Profissional - Luiz Vinicius Moraes Dos Santos
+Portfólio Profissional - Luiz Vinicius Moraes Dos Santos
 
- Perfil Pessoal
+---
 
-Estudante de Análise e Desenvolvimento de Sistemas, com interesse em programação,
-lógica e desenvolvimento de software.
+👤 Perfil Pessoal
 
-Email: sluizvinicius2204@gmail.com
+Estudante de Análise e Desenvolvimento de Sistemas, com interesse na área de tecnologia,
+programação e desenvolvimento de software. Atualmente estudando lógica de programação
+e linguagem C#, buscando evolução constante durante o período acadêmico.
+
+Email: luizvinicius2204@gmail.com  
 GitHub: https://github.com/luizvncsmds  
 Local: Brasil  
 
+---
+
 Currículo
 
-Formação: Análise e Desenvolvimento de Sistemas – Em andamento  
+Formação Acadêmica
 
-Habilidades:
-- Lógica de programação
-- C#
-- Git e GitHub
+Curso: Análise e Desenvolvimento de Sistemas  
+Instituição: CEUB 
+Ano de início: 2026  
+Situação: Em andamento
 
-Objetivo:
-Crescer na área de tecnologia e adquirir experiência profissional.
+---
 
-Projetos
+Habilidades Técnicas
 
-- Exercícios de lógica
-- Estudos em C#
-- Portfólio GitHub
+- Lógica de programação (em aprendizado)
+- C# (em aprendizado)
+- Algoritmos (em aprendizado)
+- Git e GitHub (em aprendizado)
+- Programação Orientada a Objetos (em aprendizado)
 
-Observação
+---
 
-Portfólio criado para atividade acadêmica.
+Competências Pessoais
+
+- Organização
+- Responsabilidade
+- Facilidade para aprender
+- Trabalho em equipe
+- Interesse por tecnologia
+
+---
+
+Idiomas
+
+Português – Nativo  
+Inglês – Básico
+
+---
+
+Objetivo
+
+Busco oportunidade para desenvolver minhas habilidades na área de tecnologia,
+adquirindo experiência profissional durante o curso de Análise e Desenvolvimento
+de Sistemas.
+
+---
+
+Projetos Acadêmicos
+
+Projeto 1 – Exercícios de lógica de programação  
+Projeto 2 – Estudos em C#  
+Projeto 3 – Portfólio no GitHub  
+
+---
+
+Habilidades e Competências
+
+Raciocínio lógico  
+Dedicação aos estudos  
+Vontade de aprender  
+Interesse em programação  
+Compromisso com evolução profissional  
+
+---
+
+Recomendações
+
+Em desenvolvimento durante o curso.
+
+---
+
+Informações adicionais
+
+Portfólio desenvolvido como atividade acadêmica utilizando GitHub para apresentação
+profissional digital.
+
+Portfólio desenvolvido como atividade acadêmica utilizando GitHub para apresentação
+profissional digital.
